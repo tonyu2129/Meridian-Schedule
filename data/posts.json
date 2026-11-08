@@ -377,5 +377,16 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-00c511e71d39c075caa95ad7a2d928d48a6e7e816ebb94a28fba317f64e6cc28",
+    "member_id": "iseri_aetris",
+    "source_url": "https://x.com/Iseri_Aetris/status/2119297447835119657",
+    "published_at": "2026-11-02T17:53:33+08:00",
+    "processed_at": "2026-11-08T10:17:23+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
   }
 ]

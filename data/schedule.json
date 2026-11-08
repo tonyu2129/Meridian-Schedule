@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:14:12+00:00",
+  "updated_at": "2026-11-08T10:17:23+00:00",
   "events": [
     {
       "member_id": "miri_aetris",
@@ -3002,6 +3002,23 @@
       "updated_at": "2026-11-02T15:05:51+00:00"
     },
     {
+      "id": "iseri_aetris_20261108_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-02T17:53:33+08:00",
+      "member_id": "iseri_aetris",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "title": "宓宓突襲",
+      "platform": "youtube",
+      "status": "scheduled",
+      "source_post_id": "csv-00c511e71d39c075caa95ad7a2d928d48a6e7e816ebb94a28fba317f64e6cc28",
+      "source_url": "https://x.com/Iseri_Aetris/status/2119297447835119657",
+      "updated_at": "2026-11-08T10:17:23+00:00"
+    },
+    {
       "id": "ichii_aetris_20261108_01",
       "timezone": "Asia/Taipei",
       "url": null,
@@ -3102,23 +3119,6 @@
       "source_post_id": "csv-8ebab9e9d837db21fd621829533ea591901df1f0a32c64e0926826b1d6e78814",
       "source_url": "https://x.com/Hitomi_TeRaz/status/2116983884038676719",
       "updated_at": "2026-11-02T00:42:53+00:00"
-    },
-    {
-      "id": "iseri_aetris_20261108_01",
-      "timezone": "Asia/Taipei",
-      "url": null,
-      "origin": "weekly_schedule",
-      "confidence": 0.7,
-      "created_at": "2026-11-02T17:53:33+08:00",
-      "member_id": "iseri_aetris",
-      "date": "2026-11-08",
-      "time": null,
-      "title": "宓宓突襲",
-      "platform": "youtube",
-      "status": "tbd",
-      "source_post_id": "csv-6228f3ba1c2143f182358bde829a306778ac5f58e962c5c18e886c93a5f70512",
-      "source_url": "https://x.com/Iseri_Aetris/status/2117111651921207622",
-      "updated_at": "2026-11-02T15:05:51+00:00"
     },
     {
       "id": "itsuki_ianvs_20261108_01",
