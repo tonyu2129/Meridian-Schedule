@@ -388,5 +388,38 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-e8cd5dcb3a016096986aee7662fc96cd78ba097084abd2cee086f7abc5ee8a53",
+    "member_id": "hiyori_teraz",
+    "source_url": "https://x.com/Hiyori_TeRaz/status/2119398342845501752",
+    "published_at": "2026-11-03T06:34:37+08:00",
+    "processed_at": "2026-11-09T00:52:18+00:00",
+    "type": "postponement",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-53ede882570f974ba1b53aa497a4b19db518a2d491cb08bd49eee24828911621",
+    "member_id": "mizukivtubertw",
+    "source_url": "https://x.com/MizukiVtuberTW/status/2119449071840792769",
+    "published_at": "2026-11-09T05:55:07+08:00",
+    "processed_at": "2026-11-09T00:52:18+00:00",
+    "type": "day_off",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-6408466d5c9b9cc178a319a88303320f9ea9a220ae0ab9fbaba86b5ad762cf88",
+    "member_id": "iseri_aetris",
+    "source_url": "https://x.com/Iseri_Aetris/status/2119466004199960827",
+    "published_at": "2026-11-09T05:55:07+08:00",
+    "processed_at": "2026-11-09T00:52:18+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
   }
 ]
