@@ -487,5 +487,60 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-e798b17e3d3246fdcfe898ac858140d169a14004e24af13ebebde116bad60681",
+    "member_id": "sachi_teraz",
+    "source_url": "https://x.com/Sachi_TeRaz/status/2119757074301407515",
+    "published_at": "2026-11-09T18:06:49+08:00",
+    "processed_at": "2026-11-10T02:05:29+00:00",
+    "type": "cancellation",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-c9a6903692a5ebba1aa8b8d79e2e68ba15077a840b389009a7f6b7dfe464a95e",
+    "member_id": "kirali_neon",
+    "source_url": "https://x.com/Kirali_Neon/status/2119767889112948950",
+    "published_at": "2026-11-10T06:08:10+08:00",
+    "processed_at": "2026-11-10T02:05:29+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-ee2ed6d26f818f948b1bf7d14c6101898c209cc2c0a0d162b9be12d4a1a9550d",
+    "member_id": "iruni_ianvs",
+    "source_url": "https://x.com/iruni_ianvs/status/2119774584593666255",
+    "published_at": "2026-11-10T06:08:10+08:00",
+    "processed_at": "2026-11-10T02:05:29+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-7dbad870faf29d57a8d508cf9637000ee94b33ba2de735d4d2426748add12b9c",
+    "member_id": "koyuki_teraz",
+    "source_url": "https://x.com/Koyuki_TeRaz/status/2119819684812071062",
+    "published_at": "2026-11-10T06:08:10+08:00",
+    "processed_at": "2026-11-10T02:05:29+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-e16f457c21ef6c3fe6fc28c3c2bb7ad59918aa1056d26d60923d2498763c3b17",
+    "member_id": "hiyori_teraz",
+    "source_url": "https://x.com/Hiyori_TeRaz/status/2119749492371284338",
+    "published_at": "2026-11-10T06:08:10+08:00",
+    "processed_at": "2026-11-10T02:05:29+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
   }
 ]
