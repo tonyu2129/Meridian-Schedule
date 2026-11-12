@@ -12430,5 +12430,44 @@
       "source_url": "https://x.com/Hiyori_TeRaz/status/2119749492371284338",
       "updated_at": "2026-11-10T02:05:29+00:00"
     }
+  },
+  {
+    "event_id": "iseri_aetris_20261112_01",
+    "timestamp": "2026-11-12T11:01:52+00:00",
+    "source_post_id": "csv-65f6ef46343eec1110a92a85cd04b6497142da1bfcf413c2883d21b82e980c15",
+    "before": {
+      "id": "iseri_aetris_20261112_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-09T05:55:07+08:00",
+      "member_id": "iseri_aetris",
+      "date": "2026-11-12",
+      "time": null,
+      "title": "宓宓突襲",
+      "platform": "youtube",
+      "status": "tbd",
+      "source_post_id": "csv-6408466d5c9b9cc178a319a88303320f9ea9a220ae0ab9fbaba86b5ad762cf88",
+      "source_url": "https://x.com/Iseri_Aetris/status/2119466004199960827",
+      "updated_at": "2026-11-09T00:52:18+00:00"
+    },
+    "after": {
+      "id": "iseri_aetris_20261112_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-09T05:55:07+08:00",
+      "member_id": "iseri_aetris",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "title": "宓宓突襲",
+      "platform": "youtube",
+      "status": "scheduled",
+      "source_post_id": "csv-65f6ef46343eec1110a92a85cd04b6497142da1bfcf413c2883d21b82e980c15",
+      "source_url": "https://x.com/Iseri_Aetris/status/2120723379070370132",
+      "updated_at": "2026-11-12T11:01:52+00:00"
+    }
   }
 ]
