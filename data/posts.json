@@ -564,5 +564,16 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-246a6aae624a613b851dbfb34beb4acb25bb3020bedf5ea41f72c3ae9b4a78cb",
+    "member_id": "mizukivtubertw",
+    "source_url": "https://x.com/MizukiVtuberTW/status/2121114922473980193",
+    "published_at": "2026-11-09T05:55:07+08:00",
+    "processed_at": "2026-11-13T16:19:07+00:00",
+    "type": "cancellation",
+    "status": "processed",
+    "media": []
   }
 ]

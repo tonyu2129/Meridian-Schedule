@@ -12561,5 +12561,44 @@
       "source_url": "https://x.com/itsuki_ianvs/status/2120882648700821638",
       "updated_at": "2026-11-13T00:19:32+00:00"
     }
+  },
+  {
+    "event_id": "mizukivtubertw_20261114_01",
+    "timestamp": "2026-11-13T16:19:07+00:00",
+    "source_post_id": "csv-246a6aae624a613b851dbfb34beb4acb25bb3020bedf5ea41f72c3ae9b4a78cb",
+    "before": {
+      "id": "mizukivtubertw_20261114_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-09T05:55:07+08:00",
+      "member_id": "mizukivtubertw",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "title": "原創曲原曲禁止歌回（什麼地獄企劃？）",
+      "platform": "youtube",
+      "status": "scheduled",
+      "source_post_id": "csv-53ede882570f974ba1b53aa497a4b19db518a2d491cb08bd49eee24828911621",
+      "source_url": "https://x.com/MizukiVtuberTW/status/2119449071840792769",
+      "updated_at": "2026-11-09T00:52:18+00:00"
+    },
+    "after": {
+      "id": "mizukivtubertw_20261114_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-09T05:55:07+08:00",
+      "member_id": "mizukivtubertw",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "title": "原創曲原曲禁止歌回（什麼地獄企劃？）",
+      "platform": "youtube",
+      "status": "cancelled",
+      "source_post_id": "csv-246a6aae624a613b851dbfb34beb4acb25bb3020bedf5ea41f72c3ae9b4a78cb",
+      "source_url": "https://x.com/MizukiVtuberTW/status/2121114922473980193",
+      "updated_at": "2026-11-13T16:19:07+00:00"
+    }
   }
 ]
