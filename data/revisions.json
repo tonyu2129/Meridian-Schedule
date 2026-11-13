@@ -12469,5 +12469,97 @@
       "source_url": "https://x.com/Iseri_Aetris/status/2120723379070370132",
       "updated_at": "2026-11-12T11:01:52+00:00"
     }
+  },
+  {
+    "event_id": "itsuki_ianvs_20261112_01",
+    "timestamp": "2026-11-13T00:19:32+00:00",
+    "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+    "before": null,
+    "after": {
+      "id": "itsuki_ianvs_20261112_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-13T06:04:45+08:00",
+      "member_id": "itsuki_ianvs",
+      "date": "2026-11-12",
+      "time": null,
+      "title": "隨玥而安｜此時我只想來把ARAM",
+      "platform": "twitch",
+      "status": "tbd",
+      "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+      "source_url": "https://x.com/itsuki_ianvs/status/2120882648700821638",
+      "updated_at": "2026-11-13T00:19:32+00:00"
+    }
+  },
+  {
+    "event_id": "itsuki_ianvs_20261113_01",
+    "timestamp": "2026-11-13T00:19:32+00:00",
+    "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+    "before": null,
+    "after": {
+      "id": "itsuki_ianvs_20261113_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-13T06:04:45+08:00",
+      "member_id": "itsuki_ianvs",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "title": "雜談｜從高流到日本",
+      "platform": "youtube",
+      "status": "scheduled",
+      "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+      "source_url": "https://x.com/itsuki_ianvs/status/2120882648700821638",
+      "updated_at": "2026-11-13T00:19:32+00:00"
+    }
+  },
+  {
+    "event_id": "itsuki_ianvs_20261114_01",
+    "timestamp": "2026-11-13T00:19:32+00:00",
+    "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+    "before": null,
+    "after": {
+      "id": "itsuki_ianvs_20261114_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-13T06:04:45+08:00",
+      "member_id": "itsuki_ianvs",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "title": "會限｜特別的月份！",
+      "platform": "youtube",
+      "status": "scheduled",
+      "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+      "source_url": "https://x.com/itsuki_ianvs/status/2120882648700821638",
+      "updated_at": "2026-11-13T00:19:32+00:00"
+    }
+  },
+  {
+    "event_id": "itsuki_ianvs_20261115_01",
+    "timestamp": "2026-11-13T00:19:32+00:00",
+    "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+    "before": null,
+    "after": {
+      "id": "itsuki_ianvs_20261115_01",
+      "timezone": "Asia/Taipei",
+      "url": null,
+      "origin": "weekly_schedule",
+      "confidence": 0.7,
+      "created_at": "2026-11-13T06:04:45+08:00",
+      "member_id": "itsuki_ianvs",
+      "date": "2026-11-15",
+      "time": "20:30",
+      "title": "歌回｜停止！我想回禮拜二唱歌！！",
+      "platform": "youtube",
+      "status": "scheduled",
+      "source_post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+      "source_url": "https://x.com/itsuki_ianvs/status/2120882648700821638",
+      "updated_at": "2026-11-13T00:19:32+00:00"
+    }
   }
 ]

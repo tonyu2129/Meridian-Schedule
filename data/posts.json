@@ -553,5 +553,16 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-55cff571c9f88053a25e788089a955c5a70719c5d76c27142c2f3c4648cb9c0e",
+    "member_id": "itsuki_ianvs",
+    "source_url": "https://x.com/itsuki_ianvs/status/2120882648700821638",
+    "published_at": "2026-11-13T06:04:45+08:00",
+    "processed_at": "2026-11-13T00:19:32+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
   }
 ]
