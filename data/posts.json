@@ -575,5 +575,27 @@
     "type": "cancellation",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-169d77bef0f240e4061039b402cfff5319648e5615c10c499e619e37adc802e7",
+    "member_id": "yuzumi_neon",
+    "source_url": "https://x.com/Yuzumi_Neon/status/2121745171859877929",
+    "published_at": "2026-11-09T18:06:49+08:00",
+    "processed_at": "2026-11-15T17:07:11+00:00",
+    "type": "cancellation",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-c2723de5a068e88332146fba792a2b6940d3d3356ca86f20faa378bf5851271a",
+    "member_id": "mizukivtubertw",
+    "source_url": "https://x.com/MizukiVtuberTW/status/2121787189730373848",
+    "published_at": "2026-11-15T18:18:48+08:00",
+    "processed_at": "2026-11-15T17:07:11+00:00",
+    "type": "day_off",
+    "status": "processed",
+    "media": []
   }
 ]
