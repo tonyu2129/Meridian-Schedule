@@ -641,5 +641,60 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-4590defdf031b74e5560761f230d0afcfe41664bb5895ec962c4fc2a4db50691",
+    "member_id": "yuzumi_neon",
+    "source_url": "https://x.com/Yuzumi_Neon/status/2122258214536294608",
+    "published_at": "2026-11-16T18:31:45+08:00",
+    "processed_at": "2026-11-16T20:26:54+00:00",
+    "type": "day_off",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-09f6a1d507b5bba8be9261377ef9092dce9533d007e997054f103db60102d10d",
+    "member_id": "iruni_ianvs",
+    "source_url": "https://x.com/iruni_ianvs/status/2122190758707106185",
+    "published_at": "2026-11-16T18:31:45+08:00",
+    "processed_at": "2026-11-16T20:26:54+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-47acdc5aa1427ba90fa0112df46d72cac77fa74461f99ea2f0fc9b678719466e",
+    "member_id": "itsuki_ianvs",
+    "source_url": "https://x.com/itsuki_ianvs/status/2122213090213466175",
+    "published_at": "2026-11-16T18:31:45+08:00",
+    "processed_at": "2026-11-16T20:26:54+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-7a87d7487e47f90e259b2150c7e77df6fef32df76bc1c8d4abd1d7d1f9620844",
+    "member_id": "sachi_teraz",
+    "source_url": "https://x.com/Sachi_TeRaz/status/2122178789652492333",
+    "published_at": "2026-11-16T18:31:45+08:00",
+    "processed_at": "2026-11-16T20:26:54+00:00",
+    "type": "day_off",
+    "status": "processed",
+    "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-bbe0c440c2aba8acffadb93476bbb569396f6663d0afe84ecf77d752dca26ddf",
+    "member_id": "miri_aetris",
+    "source_url": "https://x.com/Miri_Aetris/status/2122203013121204449",
+    "published_at": "2026-11-16T18:31:45+08:00",
+    "processed_at": "2026-11-16T20:26:54+00:00",
+    "type": "day_off",
+    "status": "processed",
+    "media": []
   }
 ]
