@@ -740,5 +740,16 @@
     "type": "day_off",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-c14a2c21a3d987e908af87f12c09c2b1a55056100943b2e20e2e4f8ac8da5b88",
+    "member_id": "koyuki_teraz",
+    "source_url": "https://x.com/Koyuki_TeRaz/status/2122679838951829611",
+    "published_at": "2026-11-18T06:19:02+08:00",
+    "processed_at": "2026-11-17T22:20:23+00:00",
+    "type": "weekly_schedule",
+    "status": "processed",
+    "media": []
   }
 ]
