@@ -751,5 +751,16 @@
     "type": "weekly_schedule",
     "status": "processed",
     "media": []
+  },
+  {
+    "source": "x",
+    "post_id": "csv-4310ceee09af7ee4ba429d72ffcef00477c7b4a130ecbeb9262bf95732b2b24e",
+    "member_id": "sachi_teraz",
+    "source_url": "https://x.com/Sachi_TeRaz/status/2122977311528280217",
+    "published_at": "2026-11-16T18:31:45+08:00",
+    "processed_at": "2026-11-18T13:55:50+00:00",
+    "type": "cancellation",
+    "status": "processed",
+    "media": []
   }
 ]
